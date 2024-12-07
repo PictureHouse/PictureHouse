@@ -1,9 +1,17 @@
-### Hello, World! 👋
+## 👨🏻‍💻 Yune Cho
 
-<!--<a href="https://picturehouse.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub Page-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>-->
-<a href="https://blog.naver.com/picture_house" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yune-cho-2bbbb9225" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://picturehouse.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub Page-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<a href="https://blog.naver.com/picture_house" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 
-<div class='container'>
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PictureHouse&theme=codeSTACKr&langs_count=8&layout=compact" /></div>
-</div>
+### 💬 Experience
+
+- [ 2023.07 ~ 2023.12 ] **[ESTsoft](https://estsoft.ai/)** / Software Test Engineer Intern
+
+- [ 2024.03 ~ 2024.12 ] **[ Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/)** / 3rd Junior Learner 
+
+### 📂 Project
+- **[Emotion Feedback](https://apps.apple.com/kr/app/emotion-feedback/id6480441483)** : An emotional self-diagnosis app for mental health
+- **[My Raum](https://apps.apple.com/kr/app/my-raum/id6504674031)** : An app that uses RoomPlan technology to record and share scanned spaces.
+
+
