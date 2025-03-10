@@ -16,7 +16,7 @@
 - **니땅내땅** : A land grabbing game-style app that helps people who enjoy walking record their walks in a fun way and share them with their friends.
 - **[My Raum](https://apps.apple.com/kr/app/my-raum/id6504674031)** : An app that uses RoomPlan technology to record and share scanned spaces.
 - **TOMO** : An app that helps Momoka, a Japanese person, ask her friends what she doesn't know and get quick answers, helping her gain confidence in Korean in everyday life.
-- **FootballLog** : A football diary app where users can record their one-line comments along with the results of the football matches they watched.
+- **Football Log** : A football diary app where users can record their one-line comments along with the results of the football matches they watched.
 - **EGGO** : An app that helps people with low self-esteem and lack of courage to meet others to recover their self-esteem by achieving easy-to-achieve goals and gaining a sense of accomplishment through interactions with others.
 
 ### 📂 Personal Project
