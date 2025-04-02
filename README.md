@@ -10,6 +10,10 @@
 - [ 2024.03 ~ 2024.12 ] **[ Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/)** / 3rd Junior Learner
 - [ 2023.07 ~ 2023.12 ] **[ESTsoft](https://estsoft.ai/)** / Software Test Engineer Intern
 
+### 🏆 Award
+
+- WWDC25 Swift Student Challenge Winner
+
 ### 📂 Team Project
 
 - **[KEEV](https://apps.apple.com/kr/app/keev/id6738935591)** : An app that lets you check out various performance information, simply record your impressions and aftertaste after the performance, and share them with others.
